@@ -1,10 +1,14 @@
+# pipe-architecture
+
 ![Pipe Architecture](https://d262ilb51hltx0.cloudfront.net/max/1600/1*_zKyCugLRs0pZrq621ZnCg.png)
+
+## Pipe App
 
 ## Pipe Client Library
 
 ### Plottables 
 
-Plottables are ready-to-use, standardized data visualization components. Pipe comes with many built-in Plottables (check them out here: http://pipend.github.io/pipe-web-client/).
+Plottables are ready-to-use, standardized data visualization components. Pipe comes with many built-in Plottables (check them out [here](http://pipend.github.io/pipe-web-client/)).
 
 Using a Plottable can be as easy as:
 
@@ -39,3 +43,6 @@ fillIntervals(list, defaultValue = 0) => list
 
 ## Transpilation Library
 [Repo](https://github.com/Pipend/transpilation)
+
+
+## Storyboard
